@@ -1,0 +1,23 @@
+ let url="https://www.googleapis.com/youtube/v3/playlistItems";
+
+ let channelId="UCldyi11QYNXYXiLjVbyw5dA"
+ let latestId = "UUldyi11QYNXYXiLjVbyw5dA"
+
+ playlistId=PLDzeHZWIZsTrd4HFQ4-z8TmacD0OQxkmx
+ apiKey=AIzaSyAb_GVSDv6CNFDGXXvRWK7iwF7qqxhfQp0
+ playlist=https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails%2Csnippet&playlistId=PLDzeHZWIZsTrd4HFQ4-z8TmacD0OQxkmx&key="AIzaSyAb_GVSDv6CNFDGXXvRWK7iwF7qqxhfQp0"
+
+ <iframe width="560" height="315" 
+ src="https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=UExEemVIWldJWnNUbzB3U0JjZzQtTk1JYkMwTDhldkxyRC41NkI0NEY&key=AIzaSyAb_GVSDv6CNFDGXXvRWK7iwF7qqxhfQp0" 
+ title="YouTube video player" frameborder="0" allow="accelerometer;
+  autoplay; clipboard-write; encrypted-media;
+   gyroscope; picture-in-picture; web-share" 
+   allowfullscreen></iframe>
+
+
+uploadId="UUldyi11QYNXYXiLjVbyw5dA"
+url=https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=300&playlistId=UUldyi11QYNXYXiLjVbyw5dA&key=AIzaSyAb_GVSDv6CNFDGXXvRWK7iwF7qqxhfQp0
+
+
+yogeshsir=UCRwyrXYsOYNEHlAn0YMOG5g
+java=PL3ToCVMGlINoHGNM1QFI7rYk579U-naic

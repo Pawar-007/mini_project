@@ -1,0 +1,13 @@
+.videoselect{
+    margin-top: 4rem;
+    background-color: aquamarine;
+    width: 100%;
+    padding: 2rem;
+   
+}
+.actvideo{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 25px;
+}

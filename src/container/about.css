@@ -1,0 +1,23 @@
+
+#discription{
+    position: relative;
+    left: 200px;
+    top: 90px;
+    margin: 0%;
+    width: 500px;
+    height: 200px;
+    color :black;
+    padding: 10px;
+    background-color: aliceblue;
+  }
+  #img1{
+    position: relative;
+    left: 50rem;
+    bottom:180px;
+    background: hidden;
+  }
+  .body_contaon{
+    background-color: lightslategray;
+    height: 450px;
+  
+  }

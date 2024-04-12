@@ -1,0 +1,52 @@
+.nav_bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    height: 150px;
+ 
+}
+#search{
+    position: relative;
+    left: 110px;
+    width: 800px;
+    margin-left: 10px;
+    top: 8px;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+#name{
+    position: relative;
+    left: 15px;
+    font-size: 45px;
+    bottom: 46px;
+    flex-direction: column;
+    white-space: nowrap;
+}
+#login{
+    color: white;
+    font-size: 20px;
+    margin-right: 5rem;
+}
+.container{
+    height: 40px;
+    width: 40rem;
+    display: flex;
+    gap: 20px;
+    font-size: larger;
+    color: #333;
+    
+} 
+.link{
+    color: #333;
+}
+.contain{
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    font-size: large;
+}
