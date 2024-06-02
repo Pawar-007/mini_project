@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
+    background-color:black;
     color: white;
     height: 150px;
  
@@ -28,7 +28,7 @@
 }
 #login{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     margin-right: 5rem;
 }
 .container{
